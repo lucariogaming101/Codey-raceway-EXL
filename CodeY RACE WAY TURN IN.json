@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "EXL Codey Raceway",
+"productVersion": "0.1",
+"dataUrl": "CodeY RACE WAY TURN IN.data.unityweb",
+"wasmCodeUrl": "CodeY RACE WAY TURN IN.wasm.code.unityweb",
+"wasmFrameworkUrl": "CodeY RACE WAY TURN IN.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.28f1"
+}
